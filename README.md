@@ -3,55 +3,60 @@
 ### Uniformity
 
 
+
+### Visual Language
+
+
 ### Selection
 ###### in no particular order
+use shorteners for links
 
 |    | Tables                   | Are                                           | Cool   | Links |
 |:--:| ------------------------ |:---------------------------------------------:|:------:|-------|
-|1   |Sylvan Esso               | Play it Right                                 |  $1600 |[Link](http://google.com)|
-|2   |Maggie Rogers             | Dog Years                                     |   $12  |[Link](http://google.com)|
-|3   |The Shins                 | It's Only Life                                |    $1  |[Link](http://google.com)|
-|4   |Oh Wonder                 | right-aligned                                 | $1600  |[Link](http://google.com)|
-|5   |St. Lucia                 | centered                                      |   $12  |[Link](http://google.com)|
-|6   |M83                       | are neat                                      |    $1  |[Link](http://google.com)|
-|7   |The Bird and The Bee      | right-aligned                                 | $1600  |[Link](http://google.com)|
-|8   |Porter Robinson           | centered                                      |   $12  |[Link](http://google.com)|
-|9   |Kishi Bashi               | Philosophize in it! Chemicalize with it!      |    $1  |[Link](http://google.com)|
-|10  |Ben Howard                | right-aligned                                 | $1600  |[Link](http://google.com)|
-|11  |Bon Iver                  | centered                                      |   $12  |[Link](http://google.com)|
-|12  |Sufjan Stevens            | are neat                                      |    $1  |[Link](http://google.com)|
-|13  |Tei Shins                 | right-aligned                                 | $1600  |[Link](http://google.com)|
-|14  |Chairlift                 | centered                                      |   $12  |[Link](http://google.com)|
-|15  |1975                      | are neat                                      |    $1  |[Link](http://google.com)|
-|16  |Paramore                  | right-aligned                                 | $1600  |[Link](http://google.com)|
-|17  |Broken Social Scene       | centered                                      |   $12  |[Link](http://google.com)|
-|18  |Tegan and Sara            | are neat                                      |    $1  |[Link](http://google.com)|
-|19  |Shura                     | right-aligned                                 | $1600  |[Link](http://google.com)|
-|20  |Gorillaz                  | centered                                      |   $12  |[Link](http://google.com)|
-|21  |RAC                       | are neat                                      |    $1  |[Link](http://google.com)|
-|22  |MUNA                      | right-aligned                                 | $1600  |[Link](http://google.com)|
-|23  |Joni Mitchell             | centered                                      |   $12  |[Link](http://google.com)|
-|24  |The Velvet Underground    | are neat                                      |    $1  |[Link](http://google.com)|
-|25  |liv                       | right-aligned                                 | $1600  |[Link](http://google.com)|
-|26  |Savoir Adore              | centered                                      |   $12  |[Link](http://google.com)|
-|27  |Gordi                     | are neat                                      |    $1  |[Link](http://google.com)|
-|28  |Youngr                    | right-aligned                                 | $1600  |[Link](http://google.com)|
-|29  |Stars                     | centered                                      |   $12  |[Link](http://google.com)|
-|30  |Timeflies                 | are neat                                      |    $1  |[Link](http://google.com)|
-|31  |Jessie Ware               | right-aligned                                 | $1600  |[Link](http://google.com)|
-|32  |Woodkid                   | centered                                      |   $12  |[Link](http://google.com)|
-|33  |Chance the Rapper         | are neat                                      |    $1  |[Link](http://google.com)|
-|34  |Bleachers                 | right-aligned                                 | $1600  |[Link](http://google.com)|
-|35  |MO                        | centered                                      |   $12  |[Link](http://google.com)|
-|36  |Halsey                    | are neat                                      |    $1  |[Link](http://google.com)|
-|37  |WALLA                     | right-aligned                                 | $1600  |[Link](http://google.com)|
-|38  |The Preatures             | centered                                      |   $12  |[Link](http://google.com)|
-|39  |Metric                    | are neat                                      |    $1  |[Link](http://google.com)|
-|40  |Cold War Kids             | right-aligned                                 | $1600  |[Link](http://google.com)|
-|41  |OH NO OH MY               | centered                                      |   $12  |[Link](http://google.com)|
-|42  |Kero Kero Bonito          | are neat                                      |    $1  |[Link](http://google.com)|
-|43  |Darwin Deez               | right-aligned                                 | $1600  |[Link](http://google.com)|
-|44  |Phantogram                | centered                                      |   $12  |[Link](http://google.com)|
+|1   |Sylvan Esso               | Play it Right                                 | `yes`  |[Link](http://google.com)|
+|2   |Maggie Rogers             | Dog Years                                     | `yes`  |[Link](http://google.com)|
+|3   |The Shins                 | It's Only Life                                | `yes`  |[Link](http://google.com)|
+|4   |Oh Wonder                 | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|5   |St. Lucia                 | centered                                      | `yes`  |[Link](http://google.com)|
+|6   |M83                       | are neat                                      | `yes`  |[Link](http://google.com)|
+|7   |The Bird and The Bee      | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|8   |Porter Robinson           | centered                                      | `yes`  |[Link](http://google.com)|
+|9   |Kishi Bashi               | Philosophize in it! Chemicalize with it!      | `yes`  |[Link](http://google.com)|
+|10  |Ben Howard                | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|11  |Bon Iver                  | centered                                      | `yes`  |[Link](http://google.com)|
+|12  |Sufjan Stevens            | are neat                                      | `yes`  |[Link](http://google.com)|
+|13  |Tei Shins                 | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|14  |Chairlift                 | centered                                      | `yes`  |[Link](http://google.com)|
+|15  |1975                      | are neat                                      | `yes`  |[Link](http://google.com)|
+|16  |Paramore                  | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|17  |Broken Social Scene       | centered                                      | `yes`  |[Link](http://google.com)|
+|18  |Tegan and Sara            | are neat                                      | `yes`  |[Link](http://google.com)|
+|19  |Shura                     | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|20  |Gorillaz                  | centered                                      | `yes`  |[Link](http://google.com)|
+|21  |RAC                       | are neat                                      | `yes`  |[Link](http://google.com)|
+|22  |MUNA                      | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|23  |Joni Mitchell             | centered                                      | `yes`  |[Link](http://google.com)|
+|24  |The Velvet Underground    | are neat                                      | `yes`  |[Link](http://google.com)|
+|25  |liv                       | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|26  |Savoir Adore              | centered                                      | `yes`  |[Link](http://google.com)|
+|27  |Gordi                     | are neat                                      | `yes`  |[Link](http://google.com)|
+|28  |Youngr                    | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|29  |Stars                     | centered                                      | `yes`  |[Link](http://google.com)|
+|30  |Timeflies                 | are neat                                      | `yes`  |[Link](http://google.com)|
+|31  |Jessie Ware               | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|32  |Woodkid                   | centered                                      | `yes`  |[Link](http://google.com)|
+|33  |Chance the Rapper         | are neat                                      | `yes`  |[Link](http://google.com)|
+|34  |Bleachers                 | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|35  |MO                        | centered                                      | `yes`  |[Link](http://google.com)|
+|36  |Halsey                    | are neat                                      | `yes`  |[Link](http://google.com)|
+|37  |WALLA                     | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|38  |The Preatures             | centered                                      | `yes`  |[Link](http://google.com)|
+|39  |Metric                    | are neat                                      | `yes`  |[Link](http://google.com)|
+|40  |Cold War Kids             | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|41  |OH NO OH MY               | centered                                      | `yes`  |[Link](http://google.com)|
+|42  |Kero Kero Bonito          | are neat                                      | `yes`  |[Link](http://google.com)|
+|43  |Darwin Deez               | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|44  |Phantogram                | centered                                      | `yes`  |[Link](http://google.com)|
 |45  |The Weeknd                | are neat                                      |    $1  |[Link](http://google.com)|
 |46  |Broods                    | right-aligned                                 | $1600  |[Link](http://google.com)|
 |47  |Electric Guest            | centered                                      |   $12  |[Link](http://google.com)|
@@ -73,7 +78,7 @@
 |63  |Santigold                 | are neat                                      |    $1  |[Link](http://google.com)|
 |64  |Laura Mvula               | right-aligned                                 | $1600  |[Link](http://google.com)|
 |65  |Fleet Foxes               | centered                                      |   $12  |[Link](http://google.com)|
-|66  |Glass Animals             | are neat                                      |    $1  |[Link](http://google.com)|
+|66  |Glass Animals             | Agnes                                         | `yes`  |[Link](http://google.com)|
 |67  |Tank and the Bangas       | right-aligned                                 | $1600  |[Link](http://google.com)|
 |68  |Purity Ring               | centered                                      |   $12  |[Link](http://google.com)|
 |69  |zebra stripes             | are neat                                      |    $1  |[Link](http://google.com)|
