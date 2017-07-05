@@ -57,61 +57,61 @@ use shorteners for links
 |42  |Kero Kero Bonito          | are neat                                      | `yes`  |[Link](http://google.com)|
 |43  |Darwin Deez               | right-aligned                                 | `yes`  |[Link](http://google.com)|
 |44  |Phantogram                | centered                                      | `yes`  |[Link](http://google.com)|
-|45  |The Weeknd                | are neat                                      |    $1  |[Link](http://google.com)|
-|46  |Broods                    | right-aligned                                 | $1600  |[Link](http://google.com)|
-|47  |Electric Guest            | centered                                      |   $12  |[Link](http://google.com)|
-|48  |Erik Hassle               | are neat                                      |    $1  |[Link](http://google.com)|
-|49  |Tunde Olaniran            | right-aligned                                 | $1600  |[Link](http://google.com)|
-|50  |Iron & Wine               | centered                                      |   $12  |[Link](http://google.com)|
-|51  |Radiohead                 | are neat                                      |    $1  |[Link](http://google.com)|
-|52  |Sigur Ros                 | right-aligned                                 | $1600  |[Link](http://google.com)|
-|53  |Chelsea Jade              | centered                                      |   $12  |[Link](http://google.com)|
-|54  |HALFNOISE                 | are neat                                      |    $1  |[Link](http://google.com)|
-|55  |Chelsea Cutler            | right-aligned                                 | $1600  |[Link](http://google.com)|
-|56  |Fleetwood Mac             | centered                                      |   $12  |[Link](http://google.com)|
-|57  |Walk the Moon             | are neat                                      |    $1  |[Link](http://google.com)|
-|58  |The Little Ones           | right-aligned                                 | $1600  |[Link](http://google.com)|
-|59  |REYNA                     | centered                                      |   $12  |[Link](http://google.com)|
-|60  |Hazel English             | are neat                                      |    $1  |[Link](http://google.com)|
-|61  |Johnny Flinn              | right-aligned                                 | $1600  |[Link](http://google.com)|
-|62  |James Vincent McMorrow    | centered                                      |   $12  |[Link](http://google.com)|
-|63  |Santigold                 | are neat                                      |    $1  |[Link](http://google.com)|
-|64  |Laura Mvula               | right-aligned                                 | $1600  |[Link](http://google.com)|
-|65  |Fleet Foxes               | centered                                      |   $12  |[Link](http://google.com)|
+|45  |The Weeknd                | are neat                                      | `yes`  |[Link](http://google.com)|
+|46  |Broods                    | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|47  |Electric Guest            | centered                                      | `yes`  |[Link](http://google.com)|
+|48  |Erik Hassle               | are neat                                      | `yes`  |[Link](http://google.com)|
+|49  |Tunde Olaniran            | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|50  |Iron & Wine               | centered                                      | `yes`  |[Link](http://google.com)|
+|51  |Radiohead                 | are neat                                      | `yes`  |[Link](http://google.com)|
+|52  |Sigur Ros                 | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|53  |Chelsea Jade              | centered                                      | `yes`  |[Link](http://google.com)|
+|54  |HALFNOISE                 | are neat                                      | `yes`  |[Link](http://google.com)|
+|55  |Chelsea Cutler            | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|56  |Fleetwood Mac             | centered                                      | `yes`  |[Link](http://google.com)|
+|57  |Walk the Moon             | are neat                                      | `yes`  |[Link](http://google.com)|
+|58  |The Little Ones           | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|59  |REYNA                     | centered                                      | `yes`  |[Link](http://google.com)|
+|60  |Hazel English             | are neat                                      | `yes`  |[Link](http://google.com)|
+|61  |Johnny Flinn              | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|62  |James Vincent McMorrow    | centered                                      | `yes`  |[Link](http://google.com)|
+|63  |Santigold                 | are neat                                      | `yes`  |[Link](http://google.com)|
+|64  |Laura Mvula               | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|65  |Fleet Foxes               | centered                                      | `yes`  |[Link](http://google.com)|
 |66  |Glass Animals             | Agnes                                         | `yes`  |[Link](http://google.com)|
-|67  |Tank and the Bangas       | right-aligned                                 | $1600  |[Link](http://google.com)|
-|68  |Purity Ring               | centered                                      |   $12  |[Link](http://google.com)|
-|69  |zebra stripes             | are neat                                      |    $1  |[Link](http://google.com)|
-|70  |col 3 is                  | right-aligned                                 | $1600  |[Link](http://google.com)|
-|71  |col 2 is                  | centered                                      |   $12  |[Link](http://google.com)|
-|72  |zebra stripes             | are neat                                      |    $1  |[Link](http://google.com)|
-|73  |col 3 is                  | right-aligned                                 | $1600  |[Link](http://google.com)|
-|74  |col 2 is                  | centered                                      |   $12  |[Link](http://google.com)|
-|75  |zebra stripes             | are neat                                      |    $1  |[Link](http://google.com)|
-|76  |col 3 is                  | right-aligned                                 | $1600  |[Link](http://google.com)|
-|77  |col 2 is                  | centered                                      |   $12  |[Link](http://google.com)|
-|78  |zebra stripes             | are neat                                      |    $1  |[Link](http://google.com)|
-|79  |col 3 is                  | right-aligned                                 | $1600  |[Link](http://google.com)|
-|80  |col 2 is                  | centered                                      |   $12  |[Link](http://google.com)|
-|81  |zebra stripes             | are neat                                      |    $1  |[Link](http://google.com)|
-|82  |col 3 is                  | right-aligned                                 | $1600  |[Link](http://google.com)|
-|83  |col 2 is                  | centered                                      |   $12  |[Link](http://google.com)|
-|84  |zebra stripes             | are neat                                      |    $1  |[Link](http://google.com)|
-|85  |col 3 is                  | right-aligned                                 | $1600  |[Link](http://google.com)|
-|86  |col 2 is                  | centered                                      |   $12  |[Link](http://google.com)|
-|87  |zebra stripes             | are neat                                      |    $1  |[Link](http://google.com)|
-|88  |col 3 is                  | right-aligned                                 | $1600  |[Link](http://google.com)|
-|89  |col 2 is                  | centered                                      |   $12  |[Link](http://google.com)|
-|90  |zebra stripes             | are neat                                      |    $1  |[Link](http://google.com)|
-|91  |col 3 is                  | right-aligned                                 | $1600  |[Link](http://google.com)|
-|92  |col 2 is                  | centered                                      |   $12  |[Link](http://google.com)|
-|93  |zebra stripes             | are neat                                      |    $1  |[Link](http://google.com)|
-|94  |col 3 is                  | right-aligned                                 | $1600  |[Link](http://google.com)|
-|95  |col 2 is                  | centered                                      |   $12  |[Link](http://google.com)|
-|96  |zebra stripes             | are neat                                      |    $1  |[Link](http://google.com)|
-|97  |zebra stripes             | are neat                                      |    $1  |[Link](http://google.com)|
-|98  |col 3 is                  | right-aligned                                 | $1600  |[Link](http://google.com)|
-|99  |col 2 is                  | centered                                      |   $12  |[Link](http://google.com)|
-|100 |zebra stripes             | are neat                                      |    $1  |[Link](http://google.com)|
+|67  |Tank and the Bangas       | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|68  |Purity Ring               | centered                                      | `yes`  |[Link](http://google.com)|
+|69  |zebra stripes             | are neat                                      | `yes`  |[Link](http://google.com)|
+|70  |col 3 is                  | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|71  |col 2 is                  | centered                                      | `yes`  |[Link](http://google.com)|
+|72  |zebra stripes             | are neat                                      | `yes`  |[Link](http://google.com)|
+|73  |col 3 is                  | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|74  |col 2 is                  | centered                                      | `yes`  |[Link](http://google.com)|
+|75  |zebra stripes             | are neat                                      | `yes`  |[Link](http://google.com)|
+|76  |col 3 is                  | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|77  |col 2 is                  | centered                                      | `yes`  |[Link](http://google.com)|
+|78  |zebra stripes             | are neat                                      | `yes`  |[Link](http://google.com)|
+|79  |col 3 is                  | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|80  |col 2 is                  | centered                                      | `yes`  |[Link](http://google.com)|
+|81  |zebra stripes             | are neat                                      | `yes`  |[Link](http://google.com)|
+|82  |col 3 is                  | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|83  |col 2 is                  | centered                                      | `yes`  |[Link](http://google.com)|
+|84  |zebra stripes             | are neat                                      | `yes`  |[Link](http://google.com)|
+|85  |col 3 is                  | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|86  |col 2 is                  | centered                                      | `yes`  |[Link](http://google.com)|
+|87  |zebra stripes             | are neat                                      | `yes`  |[Link](http://google.com)|
+|88  |col 3 is                  | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|89  |col 2 is                  | centered                                      | `yes`  |[Link](http://google.com)|
+|90  |zebra stripes             | are neat                                      | `yes`  |[Link](http://google.com)|
+|91  |col 3 is                  | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|92  |col 2 is                  | centered                                      | `yes`  |[Link](http://google.com)|
+|93  |zebra stripes             | are neat                                      | `yes`  |[Link](http://google.com)|
+|94  |col 3 is                  | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|95  |col 2 is                  | centered                                      | `yes`  |[Link](http://google.com)|
+|96  |zebra stripes             | are neat                                      | `yes`  |[Link](http://google.com)|
+|97  |zebra stripes             | are neat                                      | `yes`  |[Link](http://google.com)|
+|98  |col 3 is                  | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|99  |col 2 is                  | centered                                      | `yes`  |[Link](http://google.com)|
+|100 |zebra stripes             | are neat                                      | `yes`  |[Link](http://google.com)|
 
 
