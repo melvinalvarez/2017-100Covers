@@ -81,8 +81,8 @@ use shorteners for links
 |66  |Glass Animals             | Agnes                                         | `yes`  |[Link](http://google.com)|
 |67  |Tank and the Bangas       | right-aligned                                 | `yes`  |[Link](http://google.com)|
 |68  |Purity Ring               | centered                                      | `yes`  |[Link](http://google.com)|
-|69  |zebra stripes             | are neat                                      | `yes`  |[Link](http://google.com)|
-|70  |col 3 is                  | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|69  |Phoenix                   | J-Boy                                         | `yes`  |[Link](http://google.com)|
+|70  |Perfume Genius            | right-aligned                                 | `yes`  |[Link](http://google.com)|
 |71  |col 2 is                  | centered                                      | `yes`  |[Link](http://google.com)|
 |72  |zebra stripes             | are neat                                      | `yes`  |[Link](http://google.com)|
 |73  |col 3 is                  | right-aligned                                 | `yes`  |[Link](http://google.com)|
@@ -114,4 +114,6 @@ use shorteners for links
 |99  |col 2 is                  | centered                                      | `yes`  |[Link](http://google.com)|
 |100 |zebra stripes             | are neat                                      | `yes`  |[Link](http://google.com)|
 
+
+### Rules
 
