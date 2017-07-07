@@ -83,11 +83,11 @@ use shorteners for links
 |68  |Purity Ring               | centered                                      | `yes`  |[Link](http://google.com)|
 |69  |Phoenix                   | J-Boy                                         | `yes`  |[Link](http://google.com)|
 |70  |Perfume Genius            | right-aligned                                 | `yes`  |[Link](http://google.com)|
-|71  |col 2 is                  | centered                                      | `yes`  |[Link](http://google.com)|
-|72  |zebra stripes             | are neat                                      | `yes`  |[Link](http://google.com)|
-|73  |col 3 is                  | right-aligned                                 | `yes`  |[Link](http://google.com)|
-|74  |col 2 is                  | centered                                      | `yes`  |[Link](http://google.com)|
-|75  |zebra stripes             | are neat                                      | `yes`  |[Link](http://google.com)|
+|71  |Vulfpeck                  | centered                                      | `yes`  |[Link](http://google.com)|
+|72  |The Little Ones           | are neat                                      | `yes`  |[Link](http://google.com)|
+|73  |Sorcha Richardson         | right-aligned                                 | `yes`  |[Link](http://google.com)|
+|74  |Charly Bliss              | centered                                      | `yes`  |[Link](http://google.com)|
+|75  |Portugal, The Man         | are neat                                      | `yes`  |[Link](http://google.com)|
 |76  |col 3 is                  | right-aligned                                 | `yes`  |[Link](http://google.com)|
 |77  |col 2 is                  | centered                                      | `yes`  |[Link](http://google.com)|
 |78  |zebra stripes             | are neat                                      | `yes`  |[Link](http://google.com)|
